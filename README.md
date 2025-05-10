@@ -10,7 +10,7 @@ Automation testing framework (API) - an example. Based on C#, .Net8, MSTest, Res
 This testing framework to test REST API for [https://jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com). Simple call like GET.
 
 ## Requirements
-.Net8, RestSharp 112.*.*, <br>
+.Net8, RestSharp 112.\*.\*, <br>
 MSTest<br>
 
 ## Project structure
