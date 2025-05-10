@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomationV24", "AutomationV24.csproj", "{D943B7CD-6D68-4832-9BD2-F1719B08CEDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D943B7CD-6D68-4832-9BD2-F1719B08CEDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D943B7CD-6D68-4832-9BD2-F1719B08CEDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D943B7CD-6D68-4832-9BD2-F1719B08CEDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D943B7CD-6D68-4832-9BD2-F1719B08CEDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
