@@ -34,4 +34,4 @@ MSTest<br>
 2. [.Net](https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet)
 3. [MSTest](https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-csharp-with-mstest)
 4. [RestSharp](https://restsharp.dev/)
-5. [GitHub Action](https://github.com/features/actions)
+5. [GitHub Actions](https://github.com/features/actions)
