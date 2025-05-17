@@ -6,7 +6,6 @@ Automation testing framework (API) - an example. Based on C#, .Net8, MSTest, Res
 [![Tests](https://github.com/BurhanH/automaton-v24/actions/workflows/dotnet.yml/badge.svg)](https://github.com/BurhanH/automaton-v24/actions/workflows/dotnet.yml)
 ![](https://badgen.net/static/made/by%20human/green)
 
-
 This testing framework to test REST API for [https://jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com). Simple call like GET.
 
 ## Requirements
@@ -16,6 +15,9 @@ MSTest<br>
 ## Project structure
 ```text
 -- automaton-v24
+   `-- .github
+       `-- workflows
+           |-- dotnet.yml
    |-- .gitignore
    |-- ApiTest.cs
    |-- AutomationV24.csproj
@@ -28,7 +30,8 @@ MSTest<br>
 
 ## Documentation and Distributives
 
-1.  [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
-2.  [.Net](https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet)
-3.  [MSTest](https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-csharp-with-mstest)
-4.  [RestSharp](https://restsharp.dev/)
+1. [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
+2. [.Net](https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet)
+3. [MSTest](https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-csharp-with-mstest)
+4. [RestSharp](https://restsharp.dev/)
+5. [GitHub Action](https://github.com/features/actions)
